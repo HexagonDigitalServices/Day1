@@ -29,7 +29,7 @@ body{
     max-width: 1200px;
     position: relative;
     overflow: hidden;
-    box-sizing: 0 8px 30px rgba(0,0,0,0.3);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.3);
 }
 
 .circle {
